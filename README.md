@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&color=5EBBDA&height=200&section=header&text=Hi%20there%20🍳&fontAlign=50&fontSize=50&strokeWidth=1&stroke=000000&desc=I'm%20Hyeryong%20Choi&descAlignY=65" />
 
 <!--
 **HyeryongChoi/HyeryongChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
